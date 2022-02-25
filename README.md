@@ -34,8 +34,8 @@
   3. Now to spawn an object or anything else on the detected Image, we basically create the object and make it a child of the Image Target gameobject. Vuforia will disable this on start and enable/track this once the parent Image target has been identified.
 
 **Building and Running the Application**
-  1. Before we build out and run the application we need to configure our player settings. Go to File -> Build Settings -> Add Open Scenes, this should add your main scene to the build.
-  2. 
+  1. Before we build out and run the application we need to configure our player settings. Go to File -> Build Settings -> Add Open Scenes, this should add your main scene to the build.![image](https://user-images.githubusercontent.com/43946298/155800877-609a05a2-7246-450e-8479-aba4ca594b88.png)
+  2. Once App is built, please check with your mobile.
 
 
          
