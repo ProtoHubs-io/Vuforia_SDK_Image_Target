@@ -1,0 +1,1 @@
+# Vuforia_SDK_Image_Target
