@@ -7,8 +7,8 @@
 
 **Setting up Vuforia Engine with Unity**
   1. Grab the latest vuforia upgrade package from the link above
-  2. Drag and drop the downloaded package into your  and it should prompt an import window![image](https://user-images.githubusercontent.com/43946298/155774491-0033301f-7342-4a88-af7b-21d3594d318e.png)
-  3. Unity will ask if you want to always have the updated vuforia engine. Click on Update
+  2. Drag and drop the downloaded package into your  and it should prompt an import window. Click Import. ![image](https://user-images.githubusercontent.com/43946298/155774491-0033301f-7342-4a88-af7b-21d3594d318e.png)
+  3. Unity will ask if you want to always have the updated vuforia engine. Click Update.![image](https://user-images.githubusercontent.com/43946298/155775026-8c24889e-c1aa-4ebc-be98-7641c42864de.png)
   4. 
          
        
