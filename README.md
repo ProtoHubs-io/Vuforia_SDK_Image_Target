@@ -4,6 +4,6 @@
     
     * Unity 2020.3.23f1
     
-    * Vuforia Engine 8.6 from here (Add Vuforia Engine to a Unity Project)
+    * Vuforia Engine 10.5 from [here](https://developer.vuforia.com/downloads/sdk) (Add Vuforia Engine to a Unity Project)
     
     * Register with Vuforia as a developer and get your license key
